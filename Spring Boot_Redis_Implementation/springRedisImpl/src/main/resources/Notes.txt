@@ -1,0 +1,6 @@
+lettuce
+
+2 diff config class for 2 diff clients
+lettuce and jedis-- 2 3rd party java clients
+
+redis support geo location
